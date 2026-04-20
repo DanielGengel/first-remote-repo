@@ -1,6 +1,5 @@
 My first git test
-
-git init // for initializing repository
+git init // initializing repository
 git add ‹file› // to add new file to staging area
 git commit -m "your commit message" // take a snapshot of the files at a certain time, 
 with a message describing what changed.
